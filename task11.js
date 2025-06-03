@@ -6,6 +6,6 @@ function minutes_to_seconds(minutes) {
     return minutes * 60;
   }
   
-console.log(minutes_to_seconds(1)); // 60
-console.log(minutes_to_seconds(5)); // 300
+console.log(minutes_to_seconds(1)); //output 60
+console.log(minutes_to_seconds(5)); //output 300
   
