@@ -65,3 +65,8 @@ Takes a string and returns it in uppercase.
 ----
 
 ### Task-13
+Take a number and return its factorial.
+
+---
+
+### Task-14
