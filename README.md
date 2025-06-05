@@ -48,3 +48,8 @@ returns true if it is positive, otherwise false
 
 ---
 
+### Task-10
+Write a function sum() that takes two numbers and returns their sum.
+
+---
+
