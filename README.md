@@ -60,3 +60,8 @@ returns the value in seconds.
 ----
 
 ### Task-12
+Takes a string and returns it in uppercase.
+
+----
+
+### Task-13
