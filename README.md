@@ -53,3 +53,10 @@ Write a function sum() that takes two numbers and returns their sum.
 
 ---
 
+### Task-11
+Write a function minutes_to_seconds() that takes minutes as input and 
+returns the value in seconds.
+
+----
+
+### Task-12
