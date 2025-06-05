@@ -23,5 +23,22 @@ Write a function called count_zero() which will take a binary string (Binary str
 ### Task-5 
 Write a function called odd_even() which takes an integer value and tells whether this value is even or odd. If even return `Even`. If odd return `Odd`
 
+---
+
 ### Task-6
 Write a function called reverse_string() which takes a string as a parameter and returns the reversed version of that string.
+
+---
+
+### Task-7
+Write a function called square() which takes a number as a parameter, 
+squares it (multiply by itself), and returns the result.
+
+---
+
+### Task-8
+Write a function called is_multiple_of_five() that takes a number and 
+returns True if it's a multiple of 5, otherwise False.
+
+---
+
