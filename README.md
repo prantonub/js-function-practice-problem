@@ -70,3 +70,35 @@ Take a number and return its factorial.
 ---
 
 ### Task-14
+Take a list and return the smallest number.
+
+---
+
+### Task-15
+Check if a password is strong: at least 8 characters, 
+contains uppercase, lowercase, number, and symbol.
+
+---
+
+### Task-16
+Returns True if the number is negative, else False.
+
+---
+
+### Task-17
+Returns True if a single character is uppercase, else False.
+
+---
+
+### Task- 18
+Takes a list and returns the reversed list.
+
+---
+
+### Task-19
+Returns the smaller of the two numbers.
+
+---
+
+### Task-20
+Multiply the input number by 10 and return the result.
