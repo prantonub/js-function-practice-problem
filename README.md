@@ -42,3 +42,9 @@ returns True if it's a multiple of 5, otherwise False.
 
 ---
 
+### Task-9
+Write a function is_positive() that takes a number and
+returns true if it is positive, otherwise false 
+
+---
+
