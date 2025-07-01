@@ -5,4 +5,5 @@ function multiplyByTen(num) {
 }
 console.log(multiplyByTen(5));   // Output: 50
 console.log(multiplyByTen(-3));  // Output: -30
-  
+
+
